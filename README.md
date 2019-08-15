@@ -12,7 +12,6 @@ ansible_study
 - ディレクトリ構成
 
 ```
-├── README.md
 ├── ansible.cfg
 ├── inventory
 │   └── hosts
