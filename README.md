@@ -76,4 +76,4 @@ ansible-playbook -i inventory/hosts playbooks/playbook.yml
 
 ## 作成者
 
-[@miima_17](https://twitter.com/miima_17)
+[MasatoshiMizumoto](https://github.com/MasatoshiMizumoto)
